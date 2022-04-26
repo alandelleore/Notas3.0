@@ -7,7 +7,8 @@ Proyecto CRUD simple realizado en React JS, lista de notas donde se permite agre
 https://misnotas3.netlify.app/
 
 #Views
-![S1](https://user-images.githubusercontent.com/84545725/165213893-99dc7b66-833a-49d7-88ed-f82799a3a1ff.jpg)
+![S1](https://user-images.githubusercontent.com/84545725/165214205-d731ac7b-c7d0-4fae-9d7d-b6184187038a.jpg)
+
 ![s2](https://user-images.githubusercontent.com/84545725/165213914-a4fa059b-9fc0-4dd7-b964-0cbfca3c455f.jpg)
 
 
