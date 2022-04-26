@@ -1,4 +1,5 @@
-#CRUD 3 Proyecto CRUD simple realizado en React JS, lista de notas donde se permite agregar, editar y borrar usando Firebase como base de datos, previamente a la creación de un usuario y contraseña, con la posibilidad de recuperar la misma mediante correo electrónico, en dicho usuario se guardaran las listas con sus respectivas modificaciones.
+#MIS NOTAS 3.0
+Proyecto CRUD simple realizado en React JS, lista de notas donde se permite agregar, editar y borrar usando Firebase como base de datos, previamente a la creación de un usuario y contraseña, con la posibilidad de recuperar la misma mediante correo electrónico, en dicho usuario se guardaran las listas con sus respectivas modificaciones.
 
 
 +HTML +BOOTSTRAP CSS +JAVASCRIPT +REACT JS +MOMENT JS
@@ -6,8 +7,9 @@
 https://misnotas3.netlify.app/
 
 #Views
-![S1](https://user-images.githubusercontent.com/84545725/165213562-449ff806-2ddd-4e27-ac59-eb0bc3fcea3b.jpg)
-![s2](https://user-images.githubusercontent.com/84545725/165213571-e092f38c-0cc4-4bbc-9575-77a9fb7bb46f.jpg)
+![S1](https://user-images.githubusercontent.com/84545725/165213893-99dc7b66-833a-49d7-88ed-f82799a3a1ff.jpg)
+![s2](https://user-images.githubusercontent.com/84545725/165213914-a4fa059b-9fc0-4dd7-b964-0cbfca3c455f.jpg)
+
 
 
 
